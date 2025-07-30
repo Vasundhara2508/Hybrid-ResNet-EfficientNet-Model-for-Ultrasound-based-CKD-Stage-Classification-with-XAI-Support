@@ -10,7 +10,6 @@ This project focuses on the classification of chronic kidney disease (CKD) stage
 - [Model Training](#model-training)
 - [XAI Support](#xai-support)
 - [Results](#results)
-- [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
@@ -69,9 +68,6 @@ visualize_explanation(explanation)
 
 ## Results
 The performance of the models is evaluated using standard metrics. Results are provided in the `results` directory, including accuracy, precision, recall, and F1-score.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
